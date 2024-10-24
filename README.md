@@ -1,5 +1,5 @@
 # Hugo Boulenc
-### PhD Student in Applied Maths & Aerospace Engineer
+### PhD Student in Applied Mathematics & Aerospace Engineer
 
 hugo.boulenc@insa-toulouse.fr | (+33) 6 50 54 34 30 | Toulouse, France
 [LinkedIn](https://www.linkedin.com/in/hugo-boulenc-596694132/) | [GitHub](https://github.com/HugoBoulenc)

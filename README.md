@@ -1,10 +1,10 @@
 # PhD student in Applied Mathematics & Aerospace Engineer
 
-#### Technical Skills: (Physics-Informed) Machine Learning, Fluid Dynamics
+#### Technical Skills: (Physics-Informed) Machine Learning, Fluid Dynamics, Aerospace Engineering
 
 ## Education
-- Ph.D., Applied Mathematics | INSA Toulouse / Institut de Mathématiques de Toulouse, Toulouse, France (_2022 - Present_)								       		
-- M.Eng., General Engineering, major in Aeronautics and Aerospace	| EPF École d'Ingénieur-e-s (_2015 - 2020_)	 			        		
+Ph.D., Applied Mathematics | INSA Toulouse / IMT, Toulouse, France (_2022 - Present_)								       		
+M.S., General Engineering, major in Aeronautics and Aerospace	| EPF École d'Ingénieur-e-s (_2015 - 2020_)	 			        		
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**

@@ -1,86 +1,92 @@
-# PhD student in Applied Maths & Aerospace Engineer
-
-#### Technical Skills: (Physics-Informed) Machine Learning, Fluid Dynamics, Aerospace Engineering
-
-## Education
-Ph.D., Applied Mathematics INSA Toulouse / IMT, Toulouse, France (_2022 - Present_)								       		
-M.S., General Engineering, major in Aeronautics and Aerospace	| EPF École d'Ingénieur-e-s (_2015 - 2020_)	 			        		
-
-# [Hugo Boulenc]
+# Hugo Boulenc
 ### PhD Student in Applied Maths & Aerospace Engineer
 
-[Adresse Email] | [Numéro de Téléphone] | [Ville, Pays]  
-[LinkedIn](https://www.linkedin.com/in/votre-profil) | [GitHub](https://github.com/votre-profil) | [Site Personnel](https://votre-site.com)
+hugo.boulenc@insa-toulouse.fr | (+33) 6 50 54 34 30 | Toulouse, France
+[LinkedIn](https://www.linkedin.com/in/hugo-boulenc-596694132/) | [GitHub](https://github.com/HugoBoulenc)
 
 ---
 
-## 👨‍💼 Expérience Professionnelle
+## 🎓 Education
 
-**[Poste Actuel ou Récent]**  
-[Nom de l'Entreprise] - [Ville, Pays]  
-[MM/AAAA] - [MM/AAAA ou Présent]  
+**PhD student in Applied Mathematics**  
+INSA Toulouse / Institut de Mathématiques de Toulouse - Toulouse, France
+2022 - Present 
 
-- Décrivez brièvement les responsabilités principales.
-- Mettez en valeur les réalisations notables avec des chiffres ou des exemples concrets.
-- Utilisez des puces pour rendre les informations claires et faciles à lire.
+- Mention any academic achievements or honors.
+- Include relevant coursework if applicable.
 
-**[Poste Précédent]**  
-[Nom de l'Entreprise] - [Ville, Pays]  
-[MM/AAAA] - [MM/AAAA]  
+**M.S., General Engineering, major in Aeronautics and Aerospace**  
+EPF École d'Ingénieur-e-s - Montpellier & Paris, France
+2015 - 2020 
 
-- Résumez les principales missions effectuées.
-- Soulignez les compétences acquises ou développées.
-
----
-
-## 🎓 Formation
-
-**[Nom du Diplôme]**  
-[Nom de l'Établissement] - [Ville, Pays]  
-[MM/AAAA] - [MM/AAAA]
-
-- Mentionnez des cours ou des projets pertinents.
-- Ajoutez des distinctions ou récompenses le cas échéant.
-
-**[Autre Diplôme ou Formation]**  
-[Nom de l'Établissement] - [Ville, Pays]  
-[MM/AAAA] - [MM/AAAA]
+- Mention any academic achievements or honors.
+- Include relevant coursework if applicable.
 
 ---
 
-## 🛠️ Compétences
+## 👨‍💼 Professional Experience
 
-- **Langages de Programmation :** Python, C++, JavaScript  
-- **Frameworks :** PyTorch, TensorFlow, React  
-- **Outils :** Git, Docker, Linux  
-- **Langues :** Français (natif), Anglais (courant)
+**[Current or Recent Job Title]**  
+[Company Name] - [City, Country]  
+[MM/YYYY] - [MM/YYYY or Present]  
 
----
+- Briefly describe your main responsibilities.
+- Highlight key achievements with numbers or concrete examples.
+- Use bullet points for clarity and conciseness.
 
-## 💼 Projets
+**[Previous Job Title]**  
+[Company Name] - [City, Country]  
+[MM/YYYY] - [MM/YYYY]  
 
-**[Nom du Projet 1]**  
-Description courte du projet, en mettant l'accent sur les technologies utilisées et les résultats obtenus. [Lien vers le projet](https://github.com/votre-projet).
+- Focus on significant contributions and accomplishments.
+- Mention any leadership roles or projects you led.
+- Emphasize results and impact.
 
-**[Nom du Projet 2]**  
-Présentation du projet avec les outils et langages employés, et les défis relevés. [Lien vers le projet](https://github.com/votre-projet).
 
----
-
-## 📜 Publications
-
-- **Titre de l'article**, [Journal/Conférence], [AAAA]. Description sommaire de l'article ou des contributions.
-- **Autre Publication**, [Journal/Conférence], [AAAA]. Explication succincte.
 
 ---
 
-## ✨ Centres d'Intérêt
+## 🛠 Skills
 
-- **Voyages :** Exploration de nouvelles cultures et pratiques.
-- **Musique :** Pratique d'un instrument ou appréciation de divers genres.
-- **Sports :** Activités sportives comme le football, le cyclisme, etc.
+- **Programming Languages:** Python, C++, JavaScript  
+- **Frameworks & Libraries:** PyTorch, TensorFlow, React  
+- **Tools & Platforms:** Jupyter, VS Code, Git, Docker  
+- **Other Skills:** Machine Learning, Data Analysis, Problem-Solving  
 
 ---
+
+## 🏆 Projects
+
+**[Project Title]**  
+[Short description of the project, technologies used, and your role.]  
+[Link to the project repository or demo](https://github.com/your-project)
+
+**[Another Project Title]**  
+[Brief description, focusing on your contributions and the project's impact.]  
+[Link to the project repository or demo](https://github.com/your-other-project)
+
+---
+
+## 📜 Certifications
+
+- **[Certification Name]** - [Issuing Organization]  
+  [MM/YYYY] - [Credential ID or Link if applicable]  
+- **[Another Certification Name]** - [Issuing Organization]  
+  [MM/YYYY] - [Credential ID or Link if applicable]  
+
+---
+
+## 📫 Contact
+
+Feel free to reach out via [Email](mailto:your-email@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/your-profile).
+
+---
+
+> _“Your favorite quote or personal motto.”_
+
+---
+
+_Last updated: [MM/YYYY]_
 
 ## 📫 Contact
 

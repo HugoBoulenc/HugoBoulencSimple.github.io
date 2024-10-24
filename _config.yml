@@ -1,6 +1,4 @@
 title: Hugo Boulenc
 # logo: 
 # description: 
-theme: minima
-minima:
-  skin: dark
+theme: jekyll-theme-minimal

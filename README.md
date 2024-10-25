@@ -5,7 +5,7 @@
 ## 📚 Education
 
 **PhD student in Applied Mathematics**  
-INSA Toulouse / Institut de Mathématiques de Toulouse - Toulouse, France
+INSA Toulouse / Institut de Mathématiques de Toulouse -- Toulouse, France
 2022 - Present 
 
 - PhD student in Applied Mathematics on Physics-Informed Machine Learning methods applied to hydraulics and hydrology models for floods simulation

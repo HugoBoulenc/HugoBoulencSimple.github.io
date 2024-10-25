@@ -36,7 +36,7 @@ ArianeGroup - Les Mureaux, France
 
 ---
 
-## ⚗️ Research
+## 👨‍🏫 Research & Teaching
 
 ### 📰 Publications
 

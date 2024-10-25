@@ -1,8 +1,6 @@
-# PhD Student in Applied Mathematics & Aerospace Engineer
+# Hugo Boulenc
 
-#### (Physics-Informed) Machine Learning, Fluid Dynamics, Aerospace Engineering
-
-[Email](mailto:hugo.boulenc@insa-toulouse.fr) | [LinkedIn](https://www.linkedin.com/in/hugo-boulenc-596694132/) | [GitHub](https://github.com/HugoBoulenc)
+### PhD student in Applied Mathematics and Aerospace Engineer
 
 ## 📚 Education
 

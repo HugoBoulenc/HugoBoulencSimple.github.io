@@ -70,8 +70,8 @@ Toulouse, France
 INSA Toulouse - Toulouse, France
 <br> 2022 - Present
 
-- Tutorial Sessions ("Travaux Dirigés") for 2^nd^ and 3^rd^ year students in PDE, ODE and Fourier analysis 
-- Design and teaching of a Practical Session ("Travaux Pratiques") for 5^th^ year students on Data Assimilation with Physics-Informed Machine Learning methods
+- Tutorial Sessions ("Travaux Dirigés") for 2^{nd} and 3^{rd} year students in PDE, ODE and Fourier analysis 
+- Design and teaching of a Practical Session ("Travaux Pratiques") for 5^{th} year students on Data Assimilation with Physics-Informed Machine Learning methods
 
 ---
 
@@ -85,7 +85,7 @@ INSA Toulouse - Toulouse, France
 
 ## 📫 Contact
 
-Feel free to reach out via [Email](mailto:hugo.boulenc@insa-toulouse.fr)!
-<br> (and don't forget to add me on [LinkedIn](https://www.linkedin.com/in/hugo-boulenc-596694132/) 🤓)
+Feel free to reach out via [Email](mailto:hugo.boulenc@insa-toulouse.fr)
+<br> <sub><sup> 🤓 and don't forget to add me on [LinkedIn](https://www.linkedin.com/in/hugo-boulenc-596694132/) </sup></sub>
 
 ---

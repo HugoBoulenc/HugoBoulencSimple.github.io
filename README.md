@@ -2,6 +2,8 @@
 
 ## PhD student in Applied Mathematics 💻 <br> & Aerospace Engineer 🛰️
 
+---
+
 ## 📚 Education
 
 **PhD student in Applied Mathematics**  
@@ -81,20 +83,9 @@ INSA Toulouse - Toulouse, France
 
 ---
 
-## 🏆 Projects
-
-**[Project Title]**  
-[Short description of the project, technologies used, and your role.]  
-[Link to the project repository or demo](https://github.com/your-project)
-
-**[Another Project Title]**  
-[Brief description, focusing on your contributions and the project's impact.]  
-[Link to the project repository or demo](https://github.com/your-other-project)
-
----
-
 ## 📫 Contact
 
-Feel free to reach out via [Email](mailto:hugo.boulenc@insa-toulouse.fr) or connect on [LinkedIn](https://www.linkedin.com/in/hugo-boulenc-596694132/).
+Feel free to reach out via [Email](mailto:hugo.boulenc@insa-toulouse.fr)!
+<br> (and don't forget to add me on [LinkedIn](https://www.linkedin.com/in/hugo-boulenc-596694132/) 🤓)
 
 ---

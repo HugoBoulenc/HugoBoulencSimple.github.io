@@ -6,14 +6,14 @@
 
 **PhD student in Applied Mathematics**  
 INSA Toulouse / Institut de Mathématiques de Toulouse -- Toulouse, France
-2022 - Present 
+<br> 2022 - Present 
 
 - PhD student in Applied Mathematics on Physics-Informed Machine Learning methods applied to hydraulics and hydrology models for floods simulation
 - Supervised by J. Monnier (INSA Toulouse/IMT), P.-A. Garambois (INRAE Aix-en-Provence) and R. Bouclier (INSA Toulouse/ICA/IUF) at INSA Toulouse
 
 **MS, General Engineering, major in Aeronautics and Aerospace**  
 EPF École d'Ingénieur-e-s - Montpellier & Paris, France
-2015 - 2020 
+<br> 2015 - 2020 
 
 - Specialization Degree (MS level) at CentraleSupélec in Aeronautics and Aerospace Engineering
 - Exchange Semester with Polytechnique Montréal in Mechanical Engineering 
@@ -24,13 +24,13 @@ EPF École d'Ingénieur-e-s - Montpellier & Paris, France
 
 **Consulting Aerospace Engineer**  
 CNES / ALCADIA - Paris & Toulouse, France
-2020 - 2021
+<br> 2020 - 2021
 
 - Consulting Engineer in Cryogenics Systems simulation for the reusable launcher demonstrator Themis, developed by ArianeWorks
 
 **Internship in Fluid Dynamics and Machine Learning on Ariane 6**  
 ArianeGroup - Les Mureaux, France
-2020
+<br> 2020
 
 - Development of a surrogate model based on CFD calculations and Machine Learning for convective heat transfer prediction on Ariane 6
 
@@ -46,19 +46,19 @@ H. Boulenc, R. Bouclier, P.-A. Garambois and J. Monnier. Spatially-distributed p
 
 **ECCOMAS** 
 Lisboa, Portugal
-2024
+<br> 2024
 
 - Inverse Problems for Shallow-Water Equations solved by Physics-Informed Machine Learning methods, Mini-Symposium presentation
 
 **ANITI Chair PILearnWater Plenary Session**
 Toulouse, France
-2024
+<br> 2024
 
 - PhD presentation
 
 **ANR MUFFINS Plenary Sessions**
 Toulouse, France
-2022, 2023
+<br> 2022, 2023
 
 - PhD presentation
 
@@ -66,7 +66,7 @@ Toulouse, France
 
 **Teaching Assistant**  
 INSA Toulouse - Toulouse, France
-2022 - Present
+<br> 2022 - Present
 
 - Tutorial Sessions ("Travaux Dirigés") for 2^nd^ and 3^rd^ year students in PDE, ODE and Fourier analysis 
 - Design and teaching of a Practical Session ("Travaux Pratiques") for 5^th^ year students on Data Assimilation with Physics-Informed Machine Learning methods

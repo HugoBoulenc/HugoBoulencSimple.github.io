@@ -1,6 +1,6 @@
 # Hugo Boulenc
 
-#### PhD student in Applied Mathematics 💻 <br> & Aerospace Engineer 🛰️
+## PhD student in Applied Mathematics 💻 <br> & Aerospace Engineer 🛰️
 
 ## 📚 Education
 
@@ -36,37 +36,40 @@ ArianeGroup - Les Mureaux, France
 
 ---
 
-## Research & Teaching
+## ⚗️ Research
 
-### Publications
+### 📰 Publications
 
 H. Boulenc, R. Bouclier, P.-A. Garambois and J. Monnier. Spatially-distributed parameter identification by physics-informed neural networks illustrated on the shallow-water equations. Submitted.
 
-### Conferences & Workshops
+### 🎤 Conferences & Workshops
 
-**ECCOMAS 2024** 
+**ECCOMAS** 
 Lisboa, Portugal
+2024
 
 - Inverse Problems for Shallow-Water Equations solved by Physics-Informed Machine Learning methods, Mini-Symposium presentation
 
-**ANITI Chair PILearnWater Plenary Session 2024**
+**ANITI Chair PILearnWater Plenary Session**
 Toulouse, France
+2024
 
-- PhD prensentation
+- PhD presentation
 
-**ANR MUFFINS Plenary Sessions 2022, 2023**
+**ANR MUFFINS Plenary Sessions**
 Toulouse, France
+2022, 2023
 
-- PhD prensentation
+- PhD presentation
 
-### Teaching Experience
+### 🎓 Teaching Experience
 
 **Teaching Assistant**  
 INSA Toulouse - Toulouse, France
 2022 - Present
 
-- Tutorial Sessions ("Travaux Dirigés") for $2^{nd}$ and $3^{rd}$ year students in PDE, ODE and Fourier analysis 
-- Design and teaching of a Practical Session ("Travaux Pratiques") for $5^{th}$ year students on Data Assimilation with Physics-Informed Machine Learning methods
+- Tutorial Sessions ("Travaux Dirigés") for 2^nd^ and 3^rd^ year students in PDE, ODE and Fourier analysis 
+- Design and teaching of a Practical Session ("Travaux Pratiques") for 5^th^ year students on Data Assimilation with Physics-Informed Machine Learning methods
 
 ---
 

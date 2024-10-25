@@ -56,13 +56,9 @@ Lisboa, Portugal
 Toulouse, France
 <br> 2024
 
-- PhD presentation
-
 **ANR MUFFINS Plenary Sessions**
 Toulouse, France
 <br> 2022, 2023
-
-- PhD presentation
 
 ### 🎓 Teaching Experience
 
